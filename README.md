@@ -3,11 +3,19 @@
 
 This repo contains the official **PyTorch** code for ChangeBind.
 
-Introduction
------------------
+## Introduction
 ChangeBind utilizes a change encoder that leverages local and global feature representations to capture both subtle and large change feature information to precisely estimate the change regions.
 
-### :point_right: Data structure
+### :arrow_right: Requirements
+```
+pytorch 1.10.0
+timm 0.4.12
+opencv-python
+tqdm
+pillow
+```
+
+### :arrow_right: Data structure
 
 ```
 """
