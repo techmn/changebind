@@ -1,7 +1,7 @@
 
 # ChangeBind: A Hybrid Change Encoder for Remote Sensing Change Detection
 
-This repo contains the official **PyTorch** code for ChangeBind.
+This repo contains the official **PyTorch** code for ChangeBind [[Arxiv]](https://arxiv.org/abs/2404.17565).
 
 ## Introduction
 ChangeBind utilizes a change encoder that leverages local and global feature representations to capture both subtle and large change feature information to precisely estimate the change regions.
