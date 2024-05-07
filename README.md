@@ -41,6 +41,7 @@ Change detection data set with pixel-level binary labels；
 @inproceedings{changebind2024,
   title={ChangeBind: A Hybrid Change Encoder for Remote Sensing Change Detection},
   author={Noman, Mubashir and Fiaz, Mustansar and Cholakkal, Hisham},
+  eprint={2404.17565},
   booktitle={Arxiv},
   year={2024}
 }
