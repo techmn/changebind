@@ -38,12 +38,14 @@ Change detection data set with pixel-level binary labels；
 
 ## Citation
 ```
-@inproceedings{changebind2024,
-  title={ChangeBind: A Hybrid Change Encoder for Remote Sensing Change Detection},
-  author={Noman, Mubashir and Fiaz, Mustansar and Cholakkal, Hisham},
+@misc{changebind2024,
+  title={ChangeBind: A Hybrid Change Encoder for Remote Sensing Change Detection}, 
+  author={Mubashir Noman and Mustansar Fiaz and Hisham Cholakkal},
+  year={2024},
   eprint={2404.17565},
-  booktitle={Arxiv},
-  year={2024}
+  archivePrefix={arXiv},
+  primaryClass={cs.CV}
+  url={https://arxiv.org/abs/2404.17565}, 
 }
 ```
 
